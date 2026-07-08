@@ -4,6 +4,9 @@ This repository contains my practical work from the Human-Robot Interaction Labo
 
 The lab involved practical robotics exercises using ROS, Franka Emika robotic manipulator, NAO humanoid robot, teleoperation, robot kinematics, impedance control, verbal interaction, and object recognition.
 
+## Final Course Report
+The team final course report is included as `Final_Report_Team1.pdf`.
+
 ## Tasks
 
 ### Task 1: ROS Introduction and Robot Motion
